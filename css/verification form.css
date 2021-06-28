@@ -1,0 +1,86 @@
+
+body{
+    background-color: rgba(74, 138, 221, 0.863);
+    color: white;
+    /* font-weight: lighter; */
+    
+}
+
+
+
+form{
+    margin: 40px 50px;
+    display: block;
+    
+}
+
+fieldset{
+    background-color: rgb(27, 19, 63);
+    margin: 0px 400px;
+    color: white;
+    border: hidden;
+    
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 150px;
+    font-weight: lighter;
+    /* font-family: sans-serif; */
+
+}
+
+
+input[type="text"]{
+    float: right;
+    margin-right: 5em;
+}
+
+input[type="password"]{
+    float: right;
+    margin-right: 5em;
+}
+
+select{
+    float: right;
+    margin-right: 9.5em;
+}
+
+input[type="number"]{
+    margin-left: 3em;
+}
+
+label[for="male"]{
+    margin-left: 11.2em;
+    margin-top: 10em;
+    
+}
+
+textarea{
+    float: right;
+    margin-right: 10em;
+}
+
+.check{
+    margin-top: -1.3em;
+}
+
+label[for="king"]{
+    margin-left: 4.5em;
+}
+
+label[for="wat"]{
+    margin-left: 7.7em;
+}
+
+input[type="radio"]{
+    padding: 0em;
+}
+
+button{
+    float: right;
+    margin-right: 9em;
+    width: 300px;
+}
+

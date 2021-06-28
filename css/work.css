@@ -1,0 +1,57 @@
+
+
+h1{
+    /* font-size: -30px ; */
+    /* margin-top: -0px; */
+    font-family: sans-serif;
+    color: white;
+    font-weight: lighter;
+}
+
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+small{
+    color: grey;
+    margin-right: 210px;
+}
+
+fieldset{
+    text-align: center;
+    margin: 120px 510px;
+    /* border-radius: 20px; */
+    background-color: rgb(5, 5, 15);
+    border: hidden;
+    border-right: solid black 10px;
+    border-bottom: solid black 10px;
+}
+
+input{
+    width: 200px;
+    height: 35px;
+    background-color: rgb(5, 5, 15);
+    border: solid rgb(81, 81, 187);
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.login{
+    width: 100px;
+    height: 35px;
+    color: white;
+    border: rgb(98, 223, 98) solid;
+    border-radius: 20px;
+    background-color: rgb(5, 5, 15);
+    font-size: 12px;
+}
+
+body{
+    background-color: rgb(23, 23, 36);
+    
+}
+
+   

@@ -1,0 +1,99 @@
+body{
+    /* text-align: center; */
+    /*  */
+    /* margin: 120px 600px; */
+    background-color: orange;
+    
+     
+}
+
+input{
+    background-color: rgba(128, 128, 128, 0.192);
+    width: 300px;
+    height: 35px;
+    border: hidden;
+}
+
+fieldset{
+    background-color: white;
+    margin-top: 200px;
+    margin: 100px 500px;
+    font-size: 20px;   
+}
+
+#luv{
+    color: white;
+}
+
+#luv:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+#luv:link{
+    color: white;
+}
+
+#luv:visited{
+    color: white;
+}
+
+a:hover{
+    color: darkgrey;
+    
+}
+
+button:hover{
+    color: darkgrey;
+    cursor: pointer;
+}
+
+button{
+    border: none;
+    width: 310px;
+    height: 40px;
+    color: white;
+    font-size: 15px;
+    background-color: orange;
+}
+
+#nav{
+    margin-top: -1px;
+    margin-left: -54px;
+}
+
+form{
+    margin: 35px 20px;
+}
+.list{
+    display: flex;
+    list-style: none;
+    font-size: 18px;
+    /* float: left; */
+    margin-top: 1px;
+    
+}
+
+li{
+    padding: 5px;
+    
+}
+
+a{
+    padding: 20px;
+    text-decoration: none;
+    
+}
+
+/* a{ 
+    text-decoration: none;
+    color: red;
+ } */
+
+p{
+    color: rgba(128, 128, 128, 0.658);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 20px;
+    /* padding: -31px; */
+}
